@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>登录注册页面</title>
+    <link rel="stylesheet" href="F:\Program Files\登录注册页面\style.css">
+    <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+
+</head>
+
+<body>
+    <div class="box">
+        <div class="logins">
+            <a href="#">没有账号，去注册</a>
+        </div>
+        <input type="radio" name="radio-set" id="control1">
+        <input type="radio" name="radio-set" id="control2">
+        <img src="BG.png" class="bg11">
+        <div class="registe">
+            <a href="#">已有帐号，去登录</a>
+        </div>
+        <form name="register-form" action="#">
+            <div class="title-box">
+                <h1>注册</h1>
+            </div>
+            <div class="input-box">
+                <input type="text" placeholder="用户名">
+                <input type="password" placeholder="密码">
+                <input type="password" placeholder="确认密码">
+            </div>
+            <div class="btn-box">
+                <button>注册</button>
+            </div>
+            <div class="agree">
+                <input type="checkbox" id="agree-box">
+                <span>已阅读并同意注册协议</span>
+            </div>
+        </form>
+        <form name="login-form" action="#">
+            <div class="title-box">
+                <h1>登录</h1>
+            </div>
+            <div class="input-box">
+                <input type="text" placeholder="用户名" id="yonghuming">
+                <select name="selects" id="select-box">
+                    <option value="请选择账号">请选择账号</option>
+                    <option value="W">
+                        <span>1499747829</span>
+                    </option>
+                    <option value="Y">
+                        <span>259284904</span>
+                    </option>
+                    <option value="H">
+                        <span>2976839921</span>
+                    </option>
+                </select>
+                <input type="password" placeholder="密码">
+            </div>
+            <div class="btn-box">
+                <button>登录</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
