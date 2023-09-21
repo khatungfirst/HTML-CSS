@@ -1,0 +1,86 @@
+{
+  "id": "4203007",
+  "name": "csgo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8288834",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e847",
+      "unicode_decimal": 59463
+    },
+    {
+      "icon_id": "10392611",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "736510",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1638281",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2961622",
+      "name": "用户认证鉴权",
+      "font_class": "yonghurenzhengjianquan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "4472016",
+      "name": "自助服务",
+      "font_class": "zizhufuwu",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "18968968",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "19066419",
+      "name": "用户认证",
+      "font_class": "yonghurenzheng",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "20167123",
+      "name": "首页-核心业务-商务合作",
+      "font_class": "shouye-hexinyewu-shangwuhezuo",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "27922783",
+      "name": "左右箭头",
+      "font_class": "zuoyoujiantou1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "27922784",
+      "name": "左右箭头",
+      "font_class": "zuoyoujiantou",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
